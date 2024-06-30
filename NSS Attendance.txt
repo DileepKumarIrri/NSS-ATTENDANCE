@@ -1,0 +1,554 @@
+DIGNITY  OF LABOUR
+
+   Roll No                                     Name Branch
+21131A0815               GOLLU KANAKA PRADEEP KUMAR   CHEM
+21131A0822                            KOYA NAGARAJU   CHEM
+21131A0825                          MAGAVAPU RAJESH   CHEM
+21131A0137                         KOLUPURI RINESHA  CIVIL
+21131A0182                   MOTAKATLA THANOJ REDDY  CIVIL
+21131A0195                        REDDY MAHESH BABU  CIVIL
+21131A05J5                               P.PRANEETH    CSE
+21131A05F1                      GANESH NAGARAMPALLI    CSE
+21131A05L2                          KALEPU SAI TEJA    CSE
+21131A05Q3                    THOTA VINAY NARASIMHA    CSE
+21131A05T1                        VEMURU HARASAHITI    CSE
+21131A05T2                   VENKUMAHANTI SUBHANKAR    CSE
+21131A4255                        IRRI DILEEP KUMAR    CSM
+21131A4259                      PULLA SATYA MOULIKA    CSM
+22135A4204                                  N.DIVYA    CSM
+21131A04J5                        PALATHIOTI SINDHU    ECE
+21131A04L3                   MALISETTY  NIKITHA SRI    ECE
+21131A04M7                            ROWTHU VISWAS    ECE
+21131A04M8               MUGADA VARAHA RAVINDRANATH    ECE
+21131A04M9                            SALAPU JHANSI    ECE
+22135A0413                        KHAADHA SAIPRASAD    ECE
+22135A0421                     POTHULA RAGA SWARUPA    ECE
+21131A0276                      MOIDA BHUAVANESWARI    EEE
+21131A0297                             VEGI GAYATRI    EEE
+21131A02A5                      SIDDHANTAPU SARADHI    EEE
+21131A02B2                     TURUVOLU VIJAYALAXMI    EEE
+21131A02A6           VAISHNAV SHANKAR SILAPARASETTY    EEE
+22135A0215                         PUDI HARIKRISHNA    EEE
+22135A0216 SANKARAPU LEELA VEERA VENKATA RAVI KIRAN    EEE
+21131A1251                   SUKUMAR ABHISHEK PUTTA     IT
+21131A1257                          REDDI NAVYASREE     IT
+21131A1260                      KORUKONDA CHAITANYA     IT
+21131A5305   CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                       BOGI SANDEEP KUMAR    MRB
+
+'PULAWAMA 
+ATTACK
+
+':
+   Roll No                                   Name Branch
+21131A0815             GOLLU KANAKA PRADEEP KUMAR   CHEM
+21131A0822                          KOYA NAGARAJU   CHEM
+21131A0825                        MAGAVAPU RAJESH   CHEM
+21131A0135                         KARANAM HARINI  CIVIL
+21131A0137                       KOLUPURI RINESHA  CIVIL
+21131A0182                 MOTAKATLA THANOJ REDDY  CIVIL
+21131A0195                      REDDY MAHESH BABU  CIVIL
+21131A05J5                             P.PRANEETH    CSE
+21131A05F1                    GANESH NAGARAMPALLI    CSE
+21131A05L2                        KALEPU SAI TEJA    CSE
+21131A05T1                      VEMURU HARASAHITI    CSE
+21131A05T2                 VENKUMAHANTI SUBHANKAR    CSE
+21131A4231                       PEDDADA ABHISHEK    CSM
+21131A4255                      IRRI DILEEP KUMAR    CSM
+21131A4259                    PULLA SATYA MOULIKA    CSM
+22135A4204                                N.DIVYA    CSM
+21131A04E8                    MADIMI BHUVANA SREE    ECE
+21131A04Q9              V.ANVESH SATYA SIDDHARTHA    ECE
+21131A04J5                      PALATHIOTI SINDHU    ECE
+21131A04M7                          ROWTHU VISWAS    ECE
+21131A04M8             MUGADA VARAHA RAVINDRANATH    ECE
+21131A04M9                          SALAPU JHANSI    ECE
+21131A04P6                       TALAMALA SUPRIYA    ECE
+21131A0297                           VEGI GAYATRI    EEE
+21131A02A5                    SIDDHANTAPU SARADHI    EEE
+21131A02B2                   TURUVOLU VIJAYALAXMI    EEE
+21131A02A6         VAISHNAV SHANKAR SILAPARASETTY    EEE
+21131A1244                            SRAVYA SAKA     IT
+21131A1251                 SUKUMAR ABHISHEK PUTTA     IT
+21131A1257                        REDDI NAVYASREE     IT
+21131A1260                    KORUKONDA CHAITANYA     IT
+21131A03B8               SURISETTI VANAJITH VAMSI   MECH
+22135A0307                           PITTA YAMINI   MECH
+21131A5305 CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                     BOGI SANDEEP KUMAR    MRB
+
+'ROAD SAFETY
+
+
+
+':
+   Roll No                                     Name Branch
+21131A0815               GOLLU KANAKA PRADEEP KUMAR   CHEM
+21131A0822                            KOYA NAGARAJU   CHEM
+22135A0807                  MUPPIDI RACHEL FLORENCE   CHEM
+21131A0135                           KARANAM HARINI  CIVIL
+21131A0137                         KOLUPURI RINESHA  CIVIL
+21131A0195                        REDDY MAHESH BABU  CIVIL
+21131A05J5                               P.PRANEETH    CSE
+21131A05F1                      GANESH NAGARAMPALLI    CSE
+21131A05L2                          KALEPU SAI TEJA    CSE
+21131A05T2                   VENKUMAHANTI SUBHANKAR    CSE
+21131A4231                         PEDDADA ABHISHEK    CSM
+21131A4255                        IRRI DILEEP KUMAR    CSM
+22135A4204                                  N.DIVYA    CSM
+21131A04E8                      MADIMI BHUVANA SREE    ECE
+21131A04Q9                V.ANVESH SATYA SIDDHARTHA    ECE
+21131A04J5                        PALATHIOTI SINDHU    ECE
+21131A04M7                            ROWTHU VISWAS    ECE
+21131A04M8               MUGADA VARAHA RAVINDRANATH    ECE
+21131A04M9                            SALAPU JHANSI    ECE
+21131A04P6                         TALAMALA SUPRIYA    ECE
+22135A0421                     POTHULA RAGA SWARUPA    ECE
+22135A0424                             SHAIK SALEHA    ECE
+21131A0297                             VEGI GAYATRI    EEE
+21131A02A5                      SIDDHANTAPU SARADHI    EEE
+21131A02B2                     TURUVOLU VIJAYALAXMI    EEE
+22135A0215                         PUDI HARIKRISHNA    EEE
+22135A0216 SANKARAPU LEELA VEERA VENKATA RAVI KIRAN    EEE
+21131A1244                              SRAVYA SAKA     IT
+21131A1251                   SUKUMAR ABHISHEK PUTTA     IT
+21131A1257                          REDDI NAVYASREE     IT
+21131A1260                      KORUKONDA CHAITANYA     IT
+21131A0383          PASPULETI VENKATA SATYANARAYANA   MECH
+21131A0384                          NIRUJOGI MALINI   MECH
+21131A0394                             SAYYED IMRAN   MECH
+21131A03A5                           TEJADEEP GANDI   MECH
+21131A03A8                    THOTA VINAY NARASIMHA   MECH
+21131A03B8                 SURISETTI VANAJITH VAMSI   MECH
+21131A5305   CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                       BOGI SANDEEP KUMAR    MRB
+
+'MENSUTRAL 
+HYGIENE
+
+':
+   Roll No                                     Name Branch
+21131A0815               GOLLU KANAKA PRADEEP KUMAR   CHEM
+21131A0135                           KARANAM HARINI  CIVIL
+21131A0182                   MOTAKATLA THANOJ REDDY  CIVIL
+21131A0195                        REDDY MAHESH BABU  CIVIL
+21131A4231                         PEDDADA ABHISHEK    CSM
+21131A4255                        IRRI DILEEP KUMAR    CSM
+21131A04J5                        PALATHIOTI SINDHU    ECE
+21131A04M9                            SALAPU JHANSI    ECE
+22135A0413                        KHAADHA SAIPRASAD    ECE
+21131A04P6                         TALAMALA SUPRIYA    ECE
+22135A0424                             SHAIK SALEHA    ECE
+21131A0297                             VEGI GAYATRI    EEE
+21131A02B2                     TURUVOLU VIJAYALAXMI    EEE
+22135A0215                         PUDI HARIKRISHNA    EEE
+22135A0216 SANKARAPU LEELA VEERA VENKATA RAVI KIRAN    EEE
+21131A0384                          NIRUJOGI MALINI   MECH
+21131A0394                             SAYYED IMRAN   MECH
+21131A03B8                 SURISETTI VANAJITH VAMSI   MECH
+22135A5301                       BOGI SANDEEP KUMAR    MRB
+
+'TUBERCULOSIS
+AWARENESS
+
+':
+   Roll No                                   Name Branch
+21131A0135                         KARANAM HARINI  CIVIL
+21131A0137                       KOLUPURI RINESHA  CIVIL
+21131A05L2                        KALEPU SAI TEJA    CSE
+21131A05T2                 VENKUMAHANTI SUBHANKAR    CSE
+21131A4255                      IRRI DILEEP KUMAR    CSM
+21131A4259                    PULLA SATYA MOULIKA    CSM
+21131A04E8                    MADIMI BHUVANA SREE    ECE
+21131A04M9                          SALAPU JHANSI    ECE
+22135A0413                      KHAADHA SAIPRASAD    ECE
+21131A04P6                       TALAMALA SUPRIYA    ECE
+22135A0421                   POTHULA RAGA SWARUPA    ECE
+22135A0424                           SHAIK SALEHA    ECE
+21131A0297                           VEGI GAYATRI    EEE
+21131A02A5                    SIDDHANTAPU SARADHI    EEE
+21131A02A6         VAISHNAV SHANKAR SILAPARASETTY    EEE
+22135A0215                       PUDI HARIKRISHNA    EEE
+21131A0384                        NIRUJOGI MALINI   MECH
+21131A5305 CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                     BOGI SANDEEP KUMAR    MRB
+
+'BUTTERMILK 
+SUPPLY
+
+':
+   Roll No                                     Name Branch
+21131A0822                            KOYA NAGARAJU   CHEM
+21131A0135                           KARANAM HARINI  CIVIL
+21131A0137                         KOLUPURI RINESHA  CIVIL
+21131A0195                        REDDY MAHESH BABU  CIVIL
+21131A05J5                               P.PRANEETH    CSE
+21131A05L2                          KALEPU SAI TEJA    CSE
+21131A05T1                        VEMURU HARASAHITI    CSE
+21131A04E8                      MADIMI BHUVANA SREE    ECE
+21131A04Q9                V.ANVESH SATYA SIDDHARTHA    ECE
+21131A04M7                            ROWTHU VISWAS    ECE
+21131A04M8               MUGADA VARAHA RAVINDRANATH    ECE
+21131A04M9                            SALAPU JHANSI    ECE
+21131A04P6                         TALAMALA SUPRIYA    ECE
+22135A0215                         PUDI HARIKRISHNA    EEE
+22135A0216 SANKARAPU LEELA VEERA VENKATA RAVI KIRAN    EEE
+21131A1244                              SRAVYA SAKA     IT
+21131A1251                   SUKUMAR ABHISHEK PUTTA     IT
+21131A5305   CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                       BOGI SANDEEP KUMAR    MRB
+
+'AU CONVECTION':
+   Roll No                                   Name Branch
+21131A4255                      IRRI DILEEP KUMAR    CSM
+21131A04M8             MUGADA VARAHA RAVINDRANATH    ECE
+21131A0297                           VEGI GAYATRI    EEE
+21131A1251                 SUKUMAR ABHISHEK PUTTA     IT
+21131A1260                    KORUKONDA CHAITANYA     IT
+21131A03B8               SURISETTI VANAJITH VAMSI   MECH
+21131A5305 CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                     BOGI SANDEEP KUMAR    MRB
+
+'SEMINAR ON WORLD
+ENVIRONMENT DAY
+
+':
+   Roll No                                     Name Branch
+21131A0135                           KARANAM HARINI  CIVIL
+21131A0195                        REDDY MAHESH BABU  CIVIL
+21131A05F1                      GANESH NAGARAMPALLI    CSE
+21131A05T1                        VEMURU HARASAHITI    CSE
+21131A05T2                   VENKUMAHANTI SUBHANKAR    CSE
+21131A4231                         PEDDADA ABHISHEK    CSM
+21131A4259                      PULLA SATYA MOULIKA    CSM
+22135A4204                                  N.DIVYA    CSM
+21131A04E8                      MADIMI BHUVANA SREE    ECE
+21131A04J5                        PALATHIOTI SINDHU    ECE
+21131A04L3                   MALISETTY  NIKITHA SRI    ECE
+21131A04M9                            SALAPU JHANSI    ECE
+21131A04P6                         TALAMALA SUPRIYA    ECE
+22135A0421                     POTHULA RAGA SWARUPA    ECE
+22135A0424                             SHAIK SALEHA    ECE
+21131A0297                             VEGI GAYATRI    EEE
+21131A02B2                     TURUVOLU VIJAYALAXMI    EEE
+22135A0215                         PUDI HARIKRISHNA    EEE
+22135A0216 SANKARAPU LEELA VEERA VENKATA RAVI KIRAN    EEE
+21131A1244                              SRAVYA SAKA     IT
+21131A1251                   SUKUMAR ABHISHEK PUTTA     IT
+21131A1257                          REDDI NAVYASREE     IT
+21131A0383          PASPULETI VENKATA SATYANARAYANA   MECH
+21131A0384                          NIRUJOGI MALINI   MECH
+21131A0394                             SAYYED IMRAN   MECH
+21131A03A5                           TEJADEEP GANDI   MECH
+21131A03B8                 SURISETTI VANAJITH VAMSI   MECH
+21131A5305   CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                       BOGI SANDEEP KUMAR    MRB
+
+'SEMINAR AND QUIZ ON 
+BIODIVERSITY AND GLOBAL 
+WARMING
+
+':
+   Roll No                                     Name Branch
+21131A0135                           KARANAM HARINI  CIVIL
+21131A0137                         KOLUPURI RINESHA  CIVIL
+21131A05F1                      GANESH NAGARAMPALLI    CSE
+21131A05T1                        VEMURU HARASAHITI    CSE
+21131A05T2                   VENKUMAHANTI SUBHANKAR    CSE
+21131A4259                      PULLA SATYA MOULIKA    CSM
+21131A04E8                      MADIMI BHUVANA SREE    ECE
+22135A0421                     POTHULA RAGA SWARUPA    ECE
+22135A0424                             SHAIK SALEHA    ECE
+21131A02A6           VAISHNAV SHANKAR SILAPARASETTY    EEE
+22135A0215                         PUDI HARIKRISHNA    EEE
+22135A0216 SANKARAPU LEELA VEERA VENKATA RAVI KIRAN    EEE
+21131A1251                   SUKUMAR ABHISHEK PUTTA     IT
+21131A0383          PASPULETI VENKATA SATYANARAYANA   MECH
+21131A0384                          NIRUJOGI MALINI   MECH
+21131A03A8                    THOTA VINAY NARASIMHA   MECH
+21131A03B8                 SURISETTI VANAJITH VAMSI   MECH
+21131A5305   CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                       BOGI SANDEEP KUMAR    MRB
+
+'INTERNATIONAL
+ DAY OF YOGA
+
+':
+   Roll No               Name Branch
+22135A5301 BOGI SANDEEP KUMAR    MRB
+
+'SEMINAR ON ONE
+STUDENT ONE TREE
+
+':
+   Roll No                                   Name Branch
+21131A0815             GOLLU KANAKA PRADEEP KUMAR   CHEM
+21131A0822                          KOYA NAGARAJU   CHEM
+21131A0135                         KARANAM HARINI  CIVIL
+21131A0137                       KOLUPURI RINESHA  CIVIL
+21131A0195                      REDDY MAHESH BABU  CIVIL
+21131A05T1                      VEMURU HARASAHITI    CSE
+21131A4255                      IRRI DILEEP KUMAR    CSM
+21131A4259                    PULLA SATYA MOULIKA    CSM
+22135A4204                                N.DIVYA    CSM
+21131A04E8                    MADIMI BHUVANA SREE    ECE
+21131A04J5                      PALATHIOTI SINDHU    ECE
+21131A04L3                 MALISETTY  NIKITHA SRI    ECE
+21131A04M7                          ROWTHU VISWAS    ECE
+22135A0421                   POTHULA RAGA SWARUPA    ECE
+22135A0215                       PUDI HARIKRISHNA    EEE
+21131A1244                            SRAVYA SAKA     IT
+21131A1260                    KORUKONDA CHAITANYA     IT
+21131A0384                        NIRUJOGI MALINI   MECH
+21131A0394                           SAYYED IMRAN   MECH
+21131A03A5                         TEJADEEP GANDI   MECH
+21131A5305 CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                     BOGI SANDEEP KUMAR    MRB
+
+'ORIENTATION AND AIMS
+ AND OBJECTIVES OF UBA':
+   Roll No               Name Branch
+21131A05J5         P.PRANEETH    CSE
+21131A05L2    KALEPU SAI TEJA    CSE
+21131A0297       VEGI GAYATRI    EEE
+21131A0394       SAYYED IMRAN   MECH
+22135A5301 BOGI SANDEEP KUMAR    MRB
+
+'AWARENESS ON DRUG USAGE
+':
+   Roll No                                   Name Branch
+21131A0135                         KARANAM HARINI  CIVIL
+21131A0137                       KOLUPURI RINESHA  CIVIL
+21131A05T1                      VEMURU HARASAHITI    CSE
+21131A05T2                 VENKUMAHANTI SUBHANKAR    CSE
+21131A4255                      IRRI DILEEP KUMAR    CSM
+21131A04E8                    MADIMI BHUVANA SREE    ECE
+21131A04M9                          SALAPU JHANSI    ECE
+21131A04P6                       TALAMALA SUPRIYA    ECE
+21131A0297                           VEGI GAYATRI    EEE
+21131A5305 CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                     BOGI SANDEEP KUMAR    MRB
+
+'KAPULAPPADA PLANTATION EVENT':
+   Roll No                       Name Branch
+21131A0815 GOLLU KANAKA PRADEEP KUMAR   CHEM
+21131A0822              KOYA NAGARAJU   CHEM
+21131A0135             KARANAM HARINI  CIVIL
+21131A0137           KOLUPURI RINESHA  CIVIL
+21131A05T1          VEMURU HARASAHITI    CSE
+21131A4231           PEDDADA ABHISHEK    CSM
+21131A4255          IRRI DILEEP KUMAR    CSM
+21131A4259        PULLA SATYA MOULIKA    CSM
+21131A04E8        MADIMI BHUVANA SREE    ECE
+22135A0215           PUDI HARIKRISHNA    EEE
+21131A0384            NIRUJOGI MALINI   MECH
+22135A5301         BOGI SANDEEP KUMAR    MRB
+
+'EK THAREEK EK GHANTA 
+EVENT':
+   Roll No                                     Name Branch
+21131A0815               GOLLU KANAKA PRADEEP KUMAR   CHEM
+21131A0822                            KOYA NAGARAJU   CHEM
+21131A0135                           KARANAM HARINI  CIVIL
+21131A05T2                   VENKUMAHANTI SUBHANKAR    CSE
+22135A0421                     POTHULA RAGA SWARUPA    ECE
+21131A0297                             VEGI GAYATRI    EEE
+21131A02B2                     TURUVOLU VIJAYALAXMI    EEE
+22135A0216 SANKARAPU LEELA VEERA VENKATA RAVI KIRAN    EEE
+21131A1251                   SUKUMAR ABHISHEK PUTTA     IT
+21131A0383          PASPULETI VENKATA SATYANARAYANA   MECH
+21131A0384                          NIRUJOGI MALINI   MECH
+21131A0394                             SAYYED IMRAN   MECH
+22135A5301                       BOGI SANDEEP KUMAR    MRB
+
+'NSS Campaign':
+   Roll No                   Name Branch
+21131A0822          KOYA NAGARAJU   CHEM
+21131A0135         KARANAM HARINI  CIVIL
+21131A05T1      VEMURU HARASAHITI    CSE
+21131A4259    PULLA SATYA MOULIKA    CSM
+21131A04E8    MADIMI BHUVANA SREE    ECE
+21131A04L3 MALISETTY  NIKITHA SRI    ECE
+21131A02B2   TURUVOLU VIJAYALAXMI    EEE
+21131A1244            SRAVYA SAKA     IT
+22135A5301     BOGI SANDEEP KUMAR    MRB
+
+'EVENT PLANING':
+   Roll No                                   Name Branch
+21131A0822                          KOYA NAGARAJU   CHEM
+21131A0135                         KARANAM HARINI  CIVIL
+21131A0195                      REDDY MAHESH BABU  CIVIL
+21131A05T1                      VEMURU HARASAHITI    CSE
+21131A4259                    PULLA SATYA MOULIKA    CSM
+21131A04E8                    MADIMI BHUVANA SREE    ECE
+21131A04M7                          ROWTHU VISWAS    ECE
+21131A04M9                          SALAPU JHANSI    ECE
+21131A04P6                       TALAMALA SUPRIYA    ECE
+22135A0421                   POTHULA RAGA SWARUPA    ECE
+21131A0297                           VEGI GAYATRI    EEE
+21131A02B2                   TURUVOLU VIJAYALAXMI    EEE
+22135A0215                       PUDI HARIKRISHNA    EEE
+21131A0384                        NIRUJOGI MALINI   MECH
+21131A03A5                         TEJADEEP GANDI   MECH
+21131A03B8               SURISETTI VANAJITH VAMSI   MECH
+21131A5305 CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                     BOGI SANDEEP KUMAR    MRB
+
+'NATIONAL FARMERS DAY':
+   Roll No                                   Name Branch
+21131A0815             GOLLU KANAKA PRADEEP KUMAR   CHEM
+21131A0822                          KOYA NAGARAJU   CHEM
+21131A0825                        MAGAVAPU RAJESH   CHEM
+21131A0135                         KARANAM HARINI  CIVIL
+21131A0137                       KOLUPURI RINESHA  CIVIL
+21131A0195                      REDDY MAHESH BABU  CIVIL
+21131A4231                       PEDDADA ABHISHEK    CSM
+21131A4255                      IRRI DILEEP KUMAR    CSM
+21131A04L3                 MALISETTY  NIKITHA SRI    ECE
+22135A0421                   POTHULA RAGA SWARUPA    ECE
+22135A0424                           SHAIK SALEHA    ECE
+22135A0215                       PUDI HARIKRISHNA    EEE
+21131A1244                            SRAVYA SAKA     IT
+21131A0383        PASPULETI VENKATA SATYANARAYANA   MECH
+21131A0384                        NIRUJOGI MALINI   MECH
+21131A0394                           SAYYED IMRAN   MECH
+21131A03B8               SURISETTI VANAJITH VAMSI   MECH
+21131A5305 CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                     BOGI SANDEEP KUMAR    MRB
+
+'YOUTH DAY 
+CELEBRATIONS':
+   Roll No                                   Name Branch
+21131A0822                          KOYA NAGARAJU   CHEM
+21131A0825                        MAGAVAPU RAJESH   CHEM
+21131A0195                      REDDY MAHESH BABU  CIVIL
+21131A4231                       PEDDADA ABHISHEK    CSM
+21131A4255                      IRRI DILEEP KUMAR    CSM
+21131A4259                    PULLA SATYA MOULIKA    CSM
+22135A4204                                N.DIVYA    CSM
+21131A04E8                    MADIMI BHUVANA SREE    ECE
+21131A04L3                 MALISETTY  NIKITHA SRI    ECE
+21131A04M9                          SALAPU JHANSI    ECE
+21131A04P6                       TALAMALA SUPRIYA    ECE
+22135A0421                   POTHULA RAGA SWARUPA    ECE
+21131A0297                           VEGI GAYATRI    EEE
+22135A0215                       PUDI HARIKRISHNA    EEE
+21131A0394                           SAYYED IMRAN   MECH
+21131A03B8               SURISETTI VANAJITH VAMSI   MECH
+21131A5305 CHANDAKA UMA SAMPATH MEENAKETHANA  RAO    MRB
+22135A5301                     BOGI SANDEEP KUMAR    MRB
+
+'SPECIAL 
+CAMP DAY 1
+INAGURATION 
+AND SURVEY':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'SPECIAL CAMP 
+DAY 2
+':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'SPECIAL 
+CAMP DAY 3':
+   Roll No                    Name Branch
+22135A0807 MUPPIDI RACHEL FLORENCE   CHEM
+
+'SPECIAL CAMP 
+DAY 4':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'SPECIAL CAMP DAY 5':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'SPECIAL CAMP DAY 6':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'SPECIAL CAMP DAY 7':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'CANCER EVENT':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'BLOOD DONATION':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'Unnamed: 32':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'Unnamed: 33':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'TOTAL':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'Miscellaneous
+DOCUMENTATION':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'Miscellaneous
+PHOTOGRAPHY':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'WEB DEVELOPMENT':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'POSTER':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'OTHER':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'Miscellaneous
+total':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'TOTAL REGULAR ACTIVITIES':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'Unnamed: 42':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+
+'Unnamed: 43':
+Empty DataFrame
+Columns: [Roll No, Name, Branch]
+Index: []
+

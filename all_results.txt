@@ -1,0 +1,818 @@
+S.NO':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0828                               YAMUNA LANKA       CHEM
+ 20131A0846                             S.GOPI SASAANK       CHEM
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 20131A0189                             SARIKA KEERTHI      Civil
+ 21135A0101                   APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 21135A0105                           KANDA RATHAN SAI      Civil
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05D9                 Medapati Keerthana Sujitha        CSE
+ 20131A05J1                              P.Sai Likhith        CSE
+ 20131A05D7                            M.Niharika Mani        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05Q0              VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05R1                   Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A4208                              B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                                   M.SRAVYA  CSE AI/ML
+ 20131A4201                                A. Shashank  CSE AI/ML
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                       MALLIDI SRI CHANDANA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04H2                  NUDURPATI ANDAL SAI KUMAR        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1                MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0405                          GERA JAYA PRAKASH        ECE
+ 20131A0258           MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                              REGIDI ANUSHA        EEE
+ 20131A0276                  PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0           TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1258                  Tubati Yaswanth Sai Manoj         IT
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A1202               Arrepu Naga Kanaka Rajeswari         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+ 20131A5333                       MARIPI SAI YASHWANTH Mechanical
+ 20131A0377                          N. LAKSHMI SARAYU Mechanical
+ 20131A5339                          PALLI PRUTHVI RAJ Mechanical
+ 20131A03B1                     Y.DINESH SIVA SUBRAHMA Mechanical
+ 21135A0303                C.VEERAVENKATA PRASAD REDDY Mechanical
+
+World Water Day':
+ROLL NUMBER                         NAME     BRANCH
+ 21135A0101     APPALABHAKTULA VENKATESH      Civil
+ 21135A0107          KORNALA SURYA PAVAN      Civil
+ 21135A0105             KANDA RATHAN SAI      Civil
+ 20131A05K8 Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05J1                P.Sai Likhith        CSE
+ 20131A0383 PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367           M. SESHU SAI KUMAR Mechanical
+ 20131A0377            N. LAKSHMI SARAYU Mechanical
+
+YOGA WEEK ONLINE AND 
+OFFLINE':
+ROLL NUMBER                                NAME     BRANCH
+ 21135A0101            APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                 KORNALA SURYA PAVAN      Civil
+ 20131A05P1              VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8        Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05D9          Medapati Keerthana Sujitha        CSE
+ 20131A05J1                       P.Sai Likhith        CSE
+ 20131A05D7                     M.Niharika Mani        CSE
+ 20131A05R1            Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                     P.Swaroop Kumar        CSE
+ 20131A4208                       B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                            M.SRAVYA  CSE AI/ML
+ 20131A4201                         A. Shashank  CSE AI/ML
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 21135A0420                     S KAMESWARA RAO        ECE
+ 20131A04N2                SHREYA MANGALAMPALLI        ECE
+ 20131A04D6                M VENKATA RAMA REDDY        ECE
+ 21135A0405                   GERA JAYA PRAKASH        ECE
+ 20131A0276           PARUPALLI HARI RAM PRASAD        EEE
+ 21135A0223                SODASANI VENKATA SAI        EEE
+ 20131A1258           Tubati Yaswanth Sai Manoj         IT
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A0383        PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+ 20131A0377                   N. LAKSHMI SARAYU Mechanical
+
+FEED THE VOICELESS':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0828                               YAMUNA LANKA       CHEM
+ 20131A0846                             S.GOPI SASAANK       CHEM
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05D9                 Medapati Keerthana Sujitha        CSE
+ 20131A05J1                              P.Sai Likhith        CSE
+ 20131A05D7                            M.Niharika Mani        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05Q0              VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05R1                   Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A4208                              B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                                   M.SRAVYA  CSE AI/ML
+ 20131A4201                                A. Shashank  CSE AI/ML
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                       MALLIDI SRI CHANDANA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04H2                  NUDURPATI ANDAL SAI KUMAR        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1                MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0405                          GERA JAYA PRAKASH        ECE
+ 20131A0258           MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                              REGIDI ANUSHA        EEE
+ 20131A0276                  PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0           TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1258                  Tubati Yaswanth Sai Manoj         IT
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+ 20131A0377                          N. LAKSHMI SARAYU Mechanical
+ 20131A5339                          PALLI PRUTHVI RAJ Mechanical
+ 20131A03B1                     Y.DINESH SIVA SUBRAHMA Mechanical
+
+INTERACTION WITH JUNIORS':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0828                               YAMUNA LANKA       CHEM
+ 20131A0846                             S.GOPI SASAANK       CHEM
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 21135A0101                   APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 21135A0105                           KANDA RATHAN SAI      Civil
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05D9                 Medapati Keerthana Sujitha        CSE
+ 20131A05J1                              P.Sai Likhith        CSE
+ 20131A05D7                            M.Niharika Mani        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05Q0              VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A4208                              B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                                   M.SRAVYA  CSE AI/ML
+ 20131A4201                                A. Shashank  CSE AI/ML
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                       MALLIDI SRI CHANDANA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04H2                  NUDURPATI ANDAL SAI KUMAR        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1                MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0405                          GERA JAYA PRAKASH        ECE
+ 20131A0258           MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                              REGIDI ANUSHA        EEE
+ 20131A0276                  PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0           TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1258                  Tubati Yaswanth Sai Manoj         IT
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A1202               Arrepu Naga Kanaka Rajeswari         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+ 20131A0377                          N. LAKSHMI SARAYU Mechanical
+ 20131A5339                          PALLI PRUTHVI RAJ Mechanical
+ 20131A03B1                     Y.DINESH SIVA SUBRAHMA Mechanical
+ 21135A0303                C.VEERAVENKATA PRASAD REDDY Mechanical
+
+BLOOD DONATION':
+ROLL NUMBER                         NAME     BRANCH
+ 21135A0101     APPALABHAKTULA VENKATESH      Civil
+ 21135A0105             KANDA RATHAN SAI      Civil
+ 20131A05P1       VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8 Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A0276    PARUPALLI HARI RAM PRASAD        EEE
+ 20131A0367           M. SESHU SAI KUMAR Mechanical
+
+ANNOUNCEMENT  OF NSS BODY MEMBERS':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0828                               YAMUNA LANKA       CHEM
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 21135A0101                   APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 21135A0105                           KANDA RATHAN SAI      Civil
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05D9                 Medapati Keerthana Sujitha        CSE
+ 20131A05J1                              P.Sai Likhith        CSE
+ 20131A05D7                            M.Niharika Mani        CSE
+ 20131A05Q0              VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05R1                   Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A4208                              B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                                   M.SRAVYA  CSE AI/ML
+ 20131A4201                                A. Shashank  CSE AI/ML
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                       MALLIDI SRI CHANDANA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04H2                  NUDURPATI ANDAL SAI KUMAR        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1                MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0405                          GERA JAYA PRAKASH        ECE
+ 20131A0258           MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                              REGIDI ANUSHA        EEE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A1202               Arrepu Naga Kanaka Rajeswari         IT
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+
+VANAMAHOSTAVAM':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0846                             S.GOPI SASAANK       CHEM
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 20131A0189                             SARIKA KEERTHI      Civil
+ 21135A0101                   APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 21135A0105                           KANDA RATHAN SAI      Civil
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05Q0              VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05R1                   Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A4231                                   M.SRAVYA  CSE AI/ML
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1                MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0405                          GERA JAYA PRAKASH        ECE
+ 20131A0258           MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0276                  PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0           TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+ 20131A0377                          N. LAKSHMI SARAYU Mechanical
+
+DISHA APP SENSITIZATION':
+ROLL NUMBER                         NAME     BRANCH
+ 20131A05D9   Medapati Keerthana Sujitha        CSE
+ 20131A05J1                P.Sai Likhith        CSE
+ 20131A05D7              M.Niharika Mani        CSE
+ 20131A05G6     Nikitha Kumari Pancharia        CSE
+ 20131A05H0              P.Swaroop Kumar        CSE
+ 21135A0420              S KAMESWARA RAO        ECE
+ 20131A04D1  MADABATTULA ESWARI PRASOONA        ECE
+ 20131A0383 PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0377            N. LAKSHMI SARAYU Mechanical
+
+ENERGY SWARAJ':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0828                               YAMUNA LANKA       CHEM
+ 20131A0846                             S.GOPI SASAANK       CHEM
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 20131A0189                             SARIKA KEERTHI      Civil
+ 21135A0101                   APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 21135A0105                           KANDA RATHAN SAI      Civil
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05D9                 Medapati Keerthana Sujitha        CSE
+ 20131A05J1                              P.Sai Likhith        CSE
+ 20131A05D7                            M.Niharika Mani        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05Q0              VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05R1                   Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A4208                              B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                                   M.SRAVYA  CSE AI/ML
+ 20131A4201                                A. Shashank  CSE AI/ML
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                       MALLIDI SRI CHANDANA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04H2                  NUDURPATI ANDAL SAI KUMAR        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1                MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0405                          GERA JAYA PRAKASH        ECE
+ 20131A0258           MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                              REGIDI ANUSHA        EEE
+ 20131A0276                  PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0           TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1258                  Tubati Yaswanth Sai Manoj         IT
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A1202               Arrepu Naga Kanaka Rajeswari         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+ 20131A5333                       MARIPI SAI YASHWANTH Mechanical
+ 20131A0377                          N. LAKSHMI SARAYU Mechanical
+ 20131A5339                          PALLI PRUTHVI RAJ Mechanical
+ 20131A03B1                     Y.DINESH SIVA SUBRAHMA Mechanical
+ 21135A0303                C.VEERAVENKATA PRASAD REDDY Mechanical
+
+AZADI KA
+AMRITMAHOSTAV':
+ROLL NUMBER                             NAME     BRANCH
+ 21135A0101         APPALABHAKTULA VENKATESH      Civil
+ 21135A0107              KORNALA SURYA PAVAN      Civil
+ 21135A0105                 KANDA RATHAN SAI      Civil
+ 20131A0258 MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                    REGIDI ANUSHA        EEE
+ 20131A0367               M. SESHU SAI KUMAR Mechanical
+
+BEACH CLEANUP DRIVE':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A05G6            Nikitha Kumari Pancharia        CSE
+ 20131A05R1            Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                     P.Swaroop Kumar        CSE
+ 20131A4231                            M.SRAVYA  CSE AI/ML
+ 20131A4201                         A. Shashank  CSE AI/ML
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                MALLIDI SRI CHANDANA        ECE
+ 20131A04F6                   RAVITEJA MULIPIRI        ECE
+ 20131A04P5      V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1         MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                           T DEEPTHI        ECE
+ 20131A04E1                M SEETA RAMACHARYULU        ECE
+ 20131A04D6                M VENKATA RAMA REDDY        ECE
+ 20131A02A0    TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 20131A0377                   N. LAKSHMI SARAYU Mechanical
+ 20131A5339                   PALLI PRUTHVI RAJ Mechanical
+
+KAILASGIRI (SWACHH BHARAT EVENT)':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 20131A05J1                              P.Sai Likhith        CSE
+ 20131A05Q0              VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05R1                   Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0405                          GERA JAYA PRAKASH        ECE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+ 20131A5339                          PALLI PRUTHVI RAJ Mechanical
+
+NSS FOUNDATION
+DAY':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A0848               VAKACHARLA SURYAVAMSI       CHEM
+ 21135A0101            APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                 KORNALA SURYA PAVAN      Civil
+ 21135A0105                    KANDA RATHAN SAI      Civil
+ 20131A05P1              VEPA SURYA SRIHARSHINI        CSE
+ 20131A05D9          Medapati Keerthana Sujitha        CSE
+ 20131A05J1                       P.Sai Likhith        CSE
+ 20131A05D7                     M.Niharika Mani        CSE
+ 20131A05R1            Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                     P.Swaroop Kumar        CSE
+ 20131A4208                       B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                            M.SRAVYA  CSE AI/ML
+ 20131A4201                         A. Shashank  CSE AI/ML
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                MALLIDI SRI CHANDANA        ECE
+ 21135A0420                     S KAMESWARA RAO        ECE
+ 20131A04F6                   RAVITEJA MULIPIRI        ECE
+ 20131A04P5      V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1         MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                           T DEEPTHI        ECE
+ 20131A04E1                M SEETA RAMACHARYULU        ECE
+ 20131A04D6                M VENKATA RAMA REDDY        ECE
+ 21135A0405                   GERA JAYA PRAKASH        ECE
+ 20131A0258    MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0276           PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0    TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 21135A0223                SODASANI VENKATA SAI        EEE
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A1256               Thokada Kusuma Kumari         IT
+ 20131A0383        PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+ 20131A0377                   N. LAKSHMI SARAYU Mechanical
+
+RAILWAYSTATION CLEANING EVENT':
+ROLL NUMBER                          NAME BRANCH
+ 20131A05Q0 VEERAVALLI BALA KOTESWARA RAO    CSE
+ 20131A04F6             RAVITEJA MULIPIRI    ECE
+
+COLLEGE SWACHH BHARAT':
+ROLL NUMBER                             NAME    BRANCH
+ 20131A05K8     Raparthi Sai Lakshmi Mrudula       CSE
+ 20131A05D7                  M.Niharika Mani       CSE
+ 20131A4231                         M.SRAVYA CSE AI/ML
+ 20131A02A0 TARIGOPPULA VENKATA SAI CHINMAIE       EEE
+
+DIWALI EVENT':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A0848               VAKACHARLA SURYAVAMSI       CHEM
+ 20131A0189                      SARIKA KEERTHI      Civil
+ 21135A0101            APPALABHAKTULA VENKATESH      Civil
+ 20131A05P1              VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8        Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05D9          Medapati Keerthana Sujitha        CSE
+ 20131A05D7                     M.Niharika Mani        CSE
+ 20131A05Q0       VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05H0                     P.Swaroop Kumar        CSE
+ 20131A4208                       B.S.S.MEGHANA  CSE AI/ML
+ 20131A4201                         A. Shashank  CSE AI/ML
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                MALLIDI SRI CHANDANA        ECE
+ 20131A04F6                   RAVITEJA MULIPIRI        ECE
+ 20131A04P0                           T DEEPTHI        ECE
+ 20131A04E1                M SEETA RAMACHARYULU        ECE
+ 20131A04D6                M VENKATA RAMA REDDY        ECE
+ 20131A0258    MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                       REGIDI ANUSHA        EEE
+ 20131A0276           PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0    TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 21135A0223                SODASANI VENKATA SAI        EEE
+ 20131A1258           Tubati Yaswanth Sai Manoj         IT
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A1256               Thokada Kusuma Kumari         IT
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+
+NMMS FORM FILLING EVENT':
+ROLL NUMBER                  NAME BRANCH
+ 20131A0848 VAKACHARLA SURYAVAMSI   CHEM
+ 20131A05H0       P.Swaroop Kumar    CSE
+ 20131A04F6     RAVITEJA MULIPIRI    ECE
+ 20131A04E1  M SEETA RAMACHARYULU    ECE
+ 20131A04D6  M VENKATA RAMA REDDY    ECE
+
+NATIONAL UNITY DAY':
+ROLL NUMBER                                       NAME BRANCH
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary    CSE
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA    ECE
+ 20131A04F6                          RAVITEJA MULIPIRI    ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI    ECE
+ 20131A04P0                                  T DEEPTHI    ECE
+ 20131A04E1                       M SEETA RAMACHARYULU    ECE
+ 20131A04D6                       M VENKATA RAMA REDDY    ECE
+ 21135A0405                          GERA JAYA PRAKASH    ECE
+ 20131A1252                          T.RAHUL MANIDATTA     IT
+
+CANCER AWARNESS':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05Q0              VEERAVALLI BALA KOTESWARA RAO        CSE
+ 20131A05R1                   Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A4208                              B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                                   M.SRAVYA  CSE AI/ML
+ 20131A4201                                A. Shashank  CSE AI/ML
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                       MALLIDI SRI CHANDANA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1                MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0405                          GERA JAYA PRAKASH        ECE
+ 20131A0258           MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                              REGIDI ANUSHA        EEE
+ 20131A02A0           TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+ 20131A0377                          N. LAKSHMI SARAYU Mechanical
+
+DIGNITY  OF
+ LABOUR':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 21135A0101                   APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05D9                 Medapati Keerthana Sujitha        CSE
+ 20131A05J1                              P.Sai Likhith        CSE
+ 20131A05D7                            M.Niharika Mani        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                       MALLIDI SRI CHANDANA        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04D1                MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A0258           MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A02A0           TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+
+PULAWAMA  
+ATTACK
+':
+ROLL NUMBER                           NAME     BRANCH
+ 21135A0101       APPALABHAKTULA VENKATESH      Civil
+ 21135A0107            KORNALA SURYA PAVAN      Civil
+ 20131A05P1         VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8   Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05H0                P.Swaroop Kumar        CSE
+ 20131A4208                  B.S.S.MEGHANA  CSE AI/ML
+ 20131A4231                       M.SRAVYA  CSE AI/ML
+ 20131A4201                    A. Shashank  CSE AI/ML
+ 21135A0420                S KAMESWARA RAO        ECE
+ 20131A04P5 V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04N2           SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                      T DEEPTHI        ECE
+ 20131A0383   PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367             M. SESHU SAI KUMAR Mechanical
+
+ROAD SAFETY
+':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 21135A0101                   APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05D9                 Medapati Keerthana Sujitha        CSE
+ 20131A05J1                              P.Sai Likhith        CSE
+ 20131A05D7                            M.Niharika Mani        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05R1                   Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A4201                                A. Shashank  CSE AI/ML
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04H2                  NUDURPATI ANDAL SAI KUMAR        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 20131A0286                              REGIDI ANUSHA        EEE
+ 20131A0276                  PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0           TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A1202               Arrepu Naga Kanaka Rajeswari         IT
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+
+MENSUTRAL
+ HYGIENE
+':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05G6                   Nikitha Kumari Pancharia        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                       MALLIDI SRI CHANDANA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04N2                       SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+
+COLLEGE FEST ':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A05P1              VEPA SURYA SRIHARSHINI        CSE
+ 20131A05R1            Yadlapalli Pradeep Kumar        CSE
+ 20131A05H0                     P.Swaroop Kumar        CSE
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 21135A0420                     S KAMESWARA RAO        ECE
+ 20131A04F6                   RAVITEJA MULIPIRI        ECE
+ 20131A04P5      V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04N2                SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                           T DEEPTHI        ECE
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A0383        PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+
+TUBERCULOSIS 
+AWARENESS
+':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0828                               YAMUNA LANKA       CHEM
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+
+BUTTER MILK 
+SUPPLY
+':
+ROLL NUMBER                                       NAME     BRANCH
+ 20131A0848                      VAKACHARLA SURYAVAMSI       CHEM
+ 21135A0101                   APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                        KORNALA SURYA PAVAN      Civil
+ 20131A05P1                     VEPA SURYA SRIHARSHINI        CSE
+ 20131A05K8               Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05H0                            P.Swaroop Kumar        CSE
+ 21135A0524 Vallabhaneni Harshith Krishna Sai Chowdary        CSE
+ 20131A04M6        SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 21135A0420                            S KAMESWARA RAO        ECE
+ 20131A04F6                          RAVITEJA MULIPIRI        ECE
+ 20131A04P5             V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 20131A04P0                                  T DEEPTHI        ECE
+ 20131A04E1                       M SEETA RAMACHARYULU        ECE
+ 20131A04D6                       M VENKATA RAMA REDDY        ECE
+ 21135A0223                       SODASANI VENKATA SAI        EEE
+ 20131A1252                          T.RAHUL MANIDATTA         IT
+ 20131A1256                      Thokada Kusuma Kumari         IT
+ 20131A0383               PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                         M. SESHU SAI KUMAR Mechanical
+
+AU CONVECTION
+':
+ROLL NUMBER                           NAME     BRANCH
+ 20131A0848          VAKACHARLA SURYAVAMSI       CHEM
+ 21135A0420                S KAMESWARA RAO        ECE
+ 20131A04F6              RAVITEJA MULIPIRI        ECE
+ 20131A04P5 V SAI PHANI PRABHAV RACHAKONDA        ECE
+ 21135A0223           SODASANI VENKATA SAI        EEE
+ 20131A1252              T.RAHUL MANIDATTA         IT
+ 20131A0367             M. SESHU SAI KUMAR Mechanical
+
+SEMINAR ON WORLD ENVIRONMENT DAY':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A0848               VAKACHARLA SURYAVAMSI       CHEM
+ 20131A05K8        Raparthi Sai Lakshmi Mrudula        CSE
+ 20131A05H0                     P.Swaroop Kumar        CSE
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04N2                SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                           T DEEPTHI        ECE
+ 20131A0258    MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A0383        PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+
+UBA REGISTRATION VISIT':
+ROLL NUMBER                           NAME BRANCH
+ 20131A04F6              RAVITEJA MULIPIRI    ECE
+ 20131A04P5 V SAI PHANI PRABHAV RACHAKONDA    ECE
+ 21135A0223           SODASANI VENKATA SAI    EEE
+ 20131A1252              T.RAHUL MANIDATTA     IT
+
+ INTERNATIONAL
+YOGA DAY':
+ROLL NUMBER                         NAME     BRANCH
+ 20131A04F6            RAVITEJA MULIPIRI        ECE
+ 21135A0223         SODASANI VENKATA SAI        EEE
+ 20131A1252            T.RAHUL MANIDATTA         IT
+ 20131A0383 PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367           M. SESHU SAI KUMAR Mechanical
+
+MERI LIFE':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A0848               VAKACHARLA SURYAVAMSI       CHEM
+ 20131A05H0                     P.Swaroop Kumar        CSE
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A1256               Thokada Kusuma Kumari         IT
+ 20131A0383        PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+ 20131A0377                   N. LAKSHMI SARAYU Mechanical
+
+WEBINAR ON ONE STUDENT ONE TREE':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A0848               VAKACHARLA SURYAVAMSI       CHEM
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04D5                MALLIDI SRI CHANDANA        ECE
+ 20131A04F6                   RAVITEJA MULIPIRI        ECE
+ 20131A04N2                SHREYA MANGALAMPALLI        ECE
+ 20131A0383        PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+ 20131A0377                   N. LAKSHMI SARAYU Mechanical
+
+ORIENTATION AND AIMS
+ AND OBJECTIVES OF UBA':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A0848               VAKACHARLA SURYAVAMSI       CHEM
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A0383        PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+
+AWARENESS ON 
+DRUG USAGE':
+ROLL NUMBER              NAME BRANCH
+ 20131A04F6 RAVITEJA MULIPIRI    ECE
+ 20131A1252 T.RAHUL MANIDATTA     IT
+
+
+MERI DESH MERI MAATI
+PLANTATION EVENT':
+ROLL NUMBER               NAME     BRANCH
+ 20131A05H0    P.Swaroop Kumar        CSE
+ 20131A04F6  RAVITEJA MULIPIRI        ECE
+ 20131A1252  T.RAHUL MANIDATTA         IT
+ 20131A0367 M. SESHU SAI KUMAR Mechanical
+
+NBA VISIT':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04F6                   RAVITEJA MULIPIRI        ECE
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+
+EK THAREEK
+ EK GHANTA EVENT':
+ROLL NUMBER              NAME BRANCH
+ 20131A05H0   P.Swaroop Kumar    CSE
+ 20131A04F6 RAVITEJA MULIPIRI    ECE
+ 20131A1252 T.RAHUL MANIDATTA     IT
+
+NSS FOUNDATION DAY':
+ROLL NUMBER                                NAME     BRANCH
+ 21135A0101            APPALABHAKTULA VENKATESH      Civil
+ 21135A0107                 KORNALA SURYA PAVAN      Civil
+ 21135A0105                    KANDA RATHAN SAI      Civil
+ 20131A05P1              VEPA SURYA SRIHARSHINI        CSE
+ 20131A05J1                       P.Sai Likhith        CSE
+ 20131A05H0                     P.Swaroop Kumar        CSE
+ 20131A4201                         A. Shashank  CSE AI/ML
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 21135A0420                     S KAMESWARA RAO        ECE
+ 20131A04F6                   RAVITEJA MULIPIRI        ECE
+ 20131A04D1         MADABATTULA ESWARI PRASOONA        ECE
+ 20131A04N2                SHREYA MANGALAMPALLI        ECE
+ 20131A04P0                           T DEEPTHI        ECE
+ 20131A04E1                M SEETA RAMACHARYULU        ECE
+ 20131A04D6                M VENKATA RAMA REDDY        ECE
+ 20131A0258    MAMILLAPALLI SAI AMUKTHA MALYADA        EEE
+ 20131A0286                       REGIDI ANUSHA        EEE
+ 20131A0276           PARUPALLI HARI RAM PRASAD        EEE
+ 20131A02A0    TARIGOPPULA VENKATA SAI CHINMAIE        EEE
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A1256               Thokada Kusuma Kumari         IT
+ 20131A0383        PERI VENKATA GAYATHRI MANASA Mechanical
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+ 20131A0377                   N. LAKSHMI SARAYU Mechanical
+
+NSS DAY CAMPAIGN':
+Empty DataFrame
+Columns: [ROLL NUMBER, NAME, BRANCH]
+Index: []
+
+SWACHH SARVEKSHAN 
+SURVEY
+':
+ROLL NUMBER                                NAME     BRANCH
+ 20131A04M6 SEELAM SRI SAI VEERA VENKATA AKHILA        ECE
+ 20131A04F6                   RAVITEJA MULIPIRI        ECE
+ 20131A1252                   T.RAHUL MANIDATTA         IT
+ 20131A0367                  M. SESHU SAI KUMAR Mechanical
+
+WEB DEVELOPMENT':
+ROLL NUMBER             NAME BRANCH
+ 21135A0105 KANDA RATHAN SAI  Civil
+
+POSTER':
+ROLL NUMBER                             NAME    BRANCH
+ 21135A0105                 KANDA RATHAN SAI     Civil
+ 20131A4208                    B.S.S.MEGHANA CSE AI/ML
+ 20131A4231                         M.SRAVYA CSE AI/ML
+ 20131A4201                      A. Shashank CSE AI/ML
+ 20131A0258 MAMILLAPALLI SAI AMUKTHA MALYADA       EEE
+ 20131A0286                    REGIDI ANUSHA       EEE
+ 20131A02A0 TARIGOPPULA VENKATA SAI CHINMAIE       EEE
+
